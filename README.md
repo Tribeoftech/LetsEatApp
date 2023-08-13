@@ -1,1 +1,1 @@
-A work in progress IOS APP. This app is the bees knees when you want to fix that food crave and need a little tech to help get it.
+A work in progress IOS APP. This app is the bees knees when you want to fix that food crave and need a little tech to help get it. Written in CodeX with the language swift which incorporates java, javascript and c. It is surely as much of a treat as the eats youll find here.
